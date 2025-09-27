@@ -4,11 +4,18 @@ WEB PRESENSI GPS.
 
 Gunakan WebServer XAMPP 5.6.30
 
-Pastikan server komputer dengan IP 192.168.1.100
+Pastikan server komputer dengan IP 192.168.1.30
 
 dan folder web berada di folder "sisfokol_presensigps".
 
-sehingga bisa diakses dari komputer lain dengan alamat http://192.168.1.100/sisfokol_presensigps
+sehingga bisa diakses dari komputer lain dengan alamat http://192.168.1.30
+
+
+
+
+
+
+/sisfokol_presensigps
 
 
 
